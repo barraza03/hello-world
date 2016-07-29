@@ -2,7 +2,7 @@
 Just my first repository
 ## this is an h2 tag
 ### this creates an h3 tag
-#### ths creates an h4 tag
+#### this creates an h4 tag
 ##### this creates an h5 tag
 ###### this creates an h6 tag
 
